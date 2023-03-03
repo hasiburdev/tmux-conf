@@ -29,3 +29,15 @@ git clone git@github.com:hasiburdev/tmux-config.git
 ```bash
 ln -s ~/Documents/GitHub/tmux-config/.tmux.conf ~/.tmux.conf
 ```
+
+**Installing Plugin Manager**
+
+```bash
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
+\*\*Installing Plugins
+
+```bash
+prefix key(Alt+f) + I
+```
